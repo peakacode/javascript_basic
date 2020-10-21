@@ -3,5 +3,5 @@ const object = {
 }
 
 const object = {
-  sge: 25
+  age: 25
 }
